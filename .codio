@@ -3,7 +3,7 @@
 
 // Run button configuration
   "commands": {
-        "Git Send": "git add --all && git commit -m 'Another commit.' && git push && spacegeek224"
+        "Git Send": "git add --all && git commit -m 'Another commit.' && git push"
   },
 
 // Preview button configuration
